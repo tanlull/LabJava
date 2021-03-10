@@ -18,9 +18,10 @@ public class PassByRef {
 
 
     public static void main(String [] args) {
-        int x = 10;
+        
          
          //Pass by Value
+         int x = 10;
          System.out.println("x="+x); // 10
          doubleMe1(x); // Pass by value => Primitive
          System.out.println("After Call x = "+x); // 10
