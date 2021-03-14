@@ -6,6 +6,6 @@ public class Lab55Block {
     }
     
     static{
-        System.out.println("Lab55Block Static Block 2");
+        System.out.println("Lab55Block Static Block ");
     }
 }

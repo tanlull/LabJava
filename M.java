@@ -5,10 +5,12 @@ class M extends N{
     }
 
     {
+        //super()
         System.out.println("M Instance initital block");
     }
 
     static{
+        //super();
         System.out.println("M Static Block 1");
     }
 
